@@ -22,7 +22,7 @@
     <ProjectGuid>{B074229C-2437-4EB7-AD5E-EA3D26DB453F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>SmartViewConnector</RootNamespace>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
