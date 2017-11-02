@@ -75,6 +75,9 @@ namespace RegOpr
 			m_hKey = m_hRootKey;
 		}
 
+// XYU update m_hRootKey with m_hKey;
+		m_hRootKey = m_hKey;
+
 		return TRUE;
 	}
 
